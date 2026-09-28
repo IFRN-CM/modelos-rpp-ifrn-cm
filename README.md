@@ -1,8 +1,8 @@
 # Modelos de Prática Profissional — IFRN Campus Ceará-Mirim
 
 Site estático (GitHub Pages) com o guia e os modelos de artigo/relatório da
-Prática Profissional do Técnico Integrado em Informática (PPC 2012), para os
-alunos baixarem diretamente — sem depender de link do Drive.
+Prática Profissional dos Cursos Técnicos Integrados (PPC 2012) do IFRN Campus
+Ceará-Mirim, para os alunos baixarem diretamente — sem depender de link do Drive.
 
 **Site:** https://ifrn-cm.github.io/modelos-rpp-ifrn-cm/
 
